@@ -1,0 +1,18 @@
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\bin\Debug\net6.0-windows\Flappy Bird Game.exe
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\bin\Debug\net6.0-windows\Flappy Bird Game.deps.json
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\bin\Debug\net6.0-windows\Flappy Bird Game.runtimeconfig.json
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\bin\Debug\net6.0-windows\Flappy Bird Game.dll
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\bin\Debug\net6.0-windows\Flappy Bird Game.pdb
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\Flappy Bird Game.csproj.AssemblyReference.cache
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\Flappy_Bird_Game.Form1.resources
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\Flappy_Bird_Game.Properties.Resources.resources
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\Flappy Bird Game.csproj.GenerateResource.cache
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\Flappy Bird Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\Flappy Bird Game.AssemblyInfoInputs.cache
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\Flappy Bird Game.AssemblyInfo.cs
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\Flappy Bird Game.csproj.CoreCompileInputs.cache
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\Flappy Bird Game.dll
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\refint\Flappy Bird Game.dll
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\Flappy Bird Game.pdb
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\Flappy Bird Game.genruntimeconfig.cache
+D:\Coding files\C#\Flappy Bird Game\Flappy Bird Game\obj\Debug\net6.0-windows\ref\Flappy Bird Game.dll
